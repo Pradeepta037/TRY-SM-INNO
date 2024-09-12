@@ -11,7 +11,7 @@
 The purpose of this project is to facilitate easy data management for eCommerce platforms by using Python and MySQL. It focuses on:
 
 - Automating the extraction of data from CSV files.
-C- leaning and transforming data to ensure compatibility with SQL data types.
+- leaning and transforming data to ensure compatibility with SQL data types.
 - Loading data into MySQL tables in a structured format.
 
 This project is valuable for database administrators, data engineers, or developers looking to streamline data import processes in large-scale systems.
